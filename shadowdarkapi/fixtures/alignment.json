@@ -1,0 +1,26 @@
+[
+  {
+    "model": "shadowdarkapi.alignment",
+    "pk": 1,
+    "fields": {
+      "name": "Chaotic",
+      "description": "Chaotic characters align themselves with destruction, ambition, and wickedness. Chaotic characters adopt a “survival of the fittest” mentality."
+  }
+},
+{
+  "model": "shadowdarkapi.alignment",
+  "pk": 1,
+  "fields": {
+    "name": "Lawful",
+    "description": "Lawful characters align themselves with fairness, order, and virtue. Lawful characters operate from a “good of the whole” mentality."
+}
+},
+{
+  "model": "shadowdarkapi.alignment",
+  "pk": 1,
+  "fields": {
+    "name": "Neutral",
+    "description": "Neutral characters find balance between Law and Chaos. They align with the cycle of growth and decline, adopting a “nature must take its course” mentality."
+}
+}
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "model": "shadowdarkapi.campaign",
+    "pk": 1,
+    "fields": {
+      "uid": 1,
+      "name": "Campaign 1",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Friedrich-Johann-Justin-Bertuch_Mythical-Creature-Dragon_1806.jpg",
+      "description": "Test1"
+  }
+},
+{
+  "model": "shadowdarkapi.campaign",
+  "pk": 2,
+  "fields": {
+    "uid": 2,
+    "name": "Campaign 2",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Friedrich-Johann-Justin-Bertuch_Mythical-Creature-Dragon_1806.jpg",
+    "description": "Test2"
+}
+},
+{
+  "model": "shadowdarkapi.campaign",
+  "pk": 3,
+  "fields": {
+    "uid": 3,
+    "name": "Campaign 3",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Friedrich-Johann-Justin-Bertuch_Mythical-Creature-Dragon_1806.jpg",
+    "description": "Test3"
+  }
+}
+]

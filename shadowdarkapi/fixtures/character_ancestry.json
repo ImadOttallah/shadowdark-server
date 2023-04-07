@@ -1,0 +1,62 @@
+[
+  {
+    "model": "shadowdarkapi.characterancestry",
+    "pk": 1,
+    "fields": {
+      "name": "Dwarf",
+      "description": "Brave, stalwart folk as sturdy as the stone kingdoms they carve inside mountains.",
+      "language": "You know the Common and Dwarvish languages.",
+      "talent": "Stout. Start with +2 HP. Roll your hit point gains with advantage."
+  }
+},
+{
+  "model": "shadowdarkapi.characterancestry",
+  "pk": 1,
+  "fields": {
+    "name": "Elf",
+    "description": "Ethereal, graceful people who revere knowledge and beauty. Elves see far and live long.",
+    "language": "You know the Common, Elvish, and Sylvan languages.",
+    "talent": "Farsight. You get a +1 bonus to attack rolls with ranged weapons or a +1 bonus to spellcasting checks."
+}
+},
+{
+  "model": "shadowdarkapi.characterancestry",
+  "pk": 1,
+  "fields": {
+    "name": "Goblin",
+    "description": "Green, clever beings who thrive in dark, cramped places. As fierce as they are tiny.",
+    "language": "You know the Common and Goblin languages.",
+    "talent": "Keen Senses. You can't be surprised."
+}
+},
+{
+  "model": "shadowdarkapi.characterancestry",
+  "pk": 1,
+  "fields": {
+    "name": "Halfling",
+    "description": "Small, cheerful country folk with mischievous streaks. They enjoy life’s simple pleasures.",
+    "language": "You know the Common language.",
+    "talent": "Stealthy. Once per day, you can become invisible for 3 rounds."
+}
+},
+{
+  "model": "shadowdarkapi.characterancestry",
+  "pk": 1,
+  "fields": {
+    "name": "Half-Orc",
+    "description": "Towering, tusked warriors who are as daring as humans and as relentless as orcs.",
+    "language": "You know the Common and Orcish languages.",
+    "talent": "Mighty. You have a +1 bonus to attack and damage rolls with melee weapons."
+}
+},
+{
+  "model": "shadowdarkapi.characterancestry",
+  "pk": 1,
+  "fields": {
+    "name": "Human",
+    "description": "Bold, adaptable, and diverse people who learn quickly and accomplish mighty deeds.",
+    "language": "You know the Common language and one additional common language.",
+    "talent": "Ambitious. You gain one additional talent roll at 1st level."
+}
+}
+]
