@@ -6,7 +6,7 @@
       "uid": 1,
       "name": "Campaign 1",
       "image": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Friedrich-Johann-Justin-Bertuch_Mythical-Creature-Dragon_1806.jpg",
-      "description": "Test1"
+      "description": "Test 1"
   }
 },
 {
@@ -16,7 +16,7 @@
     "uid": 2,
     "name": "Campaign 2",
     "image": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Friedrich-Johann-Justin-Bertuch_Mythical-Creature-Dragon_1806.jpg",
-    "description": "Test2"
+    "description": "Test 2"
 }
 },
 {
@@ -26,7 +26,7 @@
     "uid": 3,
     "name": "Campaign 3",
     "image": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Friedrich-Johann-Justin-Bertuch_Mythical-Creature-Dragon_1806.jpg",
-    "description": "Test3"
+    "description": "Test 3"
   }
 }
 ]
